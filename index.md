@@ -2,5 +2,5 @@
 
 ## fosulliv@ucsd.edu
 
-Section A14
+Section A14  
 Mentor: Stuart Geiger
